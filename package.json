@@ -1,0 +1,10 @@
+{
+  "name": "server-joiner",
+  "version": "9.2.7",
+  "main": "index.js",
+  "author": "Sayan",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
