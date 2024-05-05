@@ -1,1 +1,1 @@
-node ./
+node ./s
